@@ -1,0 +1,12 @@
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Release\e-Analize.exe.config
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Release\Database.mdf
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Release\Database_log.ldf
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Release\e-Analize.exe
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Release\e-Analize.pdb
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e_Analize.db_setup.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e_Analize.Form2.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e_Analize.Properties.Resources.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e-Analize.csproj.GenerateResource.Cache
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e-Analize.exe
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e-Analize.pdb
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Release\e-Analize.csprojResolveAssemblyReference.cache

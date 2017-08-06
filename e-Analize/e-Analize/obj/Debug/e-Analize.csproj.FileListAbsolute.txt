@@ -1,0 +1,63 @@
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Debug\e-Analize.exe.config
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Debug\Database.mdf
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Debug\Database_log.ldf
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Debug\e-Analize.exe
+D:\12A\aplicatii c#\e-Analize\e-Analize\bin\Debug\e-Analize.pdb
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e-Analize.csprojResolveAssemblyReference.cache
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.Properties.Resources.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e-Analize.csproj.GenerateResource.Cache
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e-Analize.exe
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e-Analize.pdb
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.admin_medici.resources
+C:\Users\Serban\Desktop\e-Analize\e-Analize\bin\Debug\e-Analize.exe.config
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e-Analize.exe
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e-Analize.pdb
+C:\Users\Serban\Desktop\e-Analize\e-Analize\bin\Debug\Database.mdf
+C:\Users\Serban\Desktop\e-Analize\e-Analize\bin\Debug\Database_log.ldf
+C:\Users\Serban\Desktop\e-Analize\e-Analize\bin\Debug\e-Analize.exe
+C:\Users\Serban\Desktop\e-Analize\e-Analize\bin\Debug\e-Analize.pdb
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e-Analize.csprojResolveAssemblyReference.cache
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e_Analize.admin_medici.resources
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e_Analize.db_setup.resources
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e_Analize.Form2.resources
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e_Analize.Properties.Resources.resources
+C:\Users\Serban\Desktop\e-Analize\e-Analize\obj\Debug\e-Analize.csproj.GenerateResource.Cache
+D:\e-Analize\e-Analize\bin\Debug\e-Analize.exe.config
+D:\e-Analize\e-Analize\obj\Debug\e-Analize.exe
+D:\e-Analize\e-Analize\obj\Debug\e-Analize.pdb
+D:\e-Analize\e-Analize\bin\Debug\e-Analize.exe
+D:\e-Analize\e-Analize\bin\Debug\e-Analize.pdb
+D:\e-Analize\e-Analize\obj\Debug\e-Analize.csprojResolveAssemblyReference.cache
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.admin_medici.resources
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.db_setup.resources
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.Properties.Resources.resources
+D:\e-Analize\e-Analize\obj\Debug\e-Analize.csproj.GenerateResource.Cache
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.db_tables.resources
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.main.resources
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.admin_pacienti.resources
+D:\e-Analize\e-Analize\obj\Debug\e_Analize.admin_analize.resources
+D:\e-Analize\e-Analize\bin\Debug\Database.mdf
+D:\e-Analize\e-Analize\bin\Debug\Database_log.ldf
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\bin\Debug\e-Analize.exe.config
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e-Analize.exe
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e-Analize.pdb
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\bin\Debug\Database.mdf
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\bin\Debug\Database_log.ldf
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\bin\Debug\e-Analize.exe
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\bin\Debug\e-Analize.pdb
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e-Analize.csprojResolveAssemblyReference.cache
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.admin_analize.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.admin_pacienti.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.admin_medici.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.main.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.Properties.Resources.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e-Analize.csproj.GenerateResource.Cache
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.fisa_add.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.select_medic.resources
+C:\Users\Serban\Documents\Visual Studio 2013\Projects\e-Analize\e-Analize\obj\Debug\e_Analize.grafic.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.admin_analize.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.admin_pacienti.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.fisa_add.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.grafic.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.main.resources
+D:\12A\aplicatii c#\e-Analize\e-Analize\obj\Debug\e_Analize.select_medic.resources
